@@ -2,16 +2,16 @@
 ## Purpose of this project
 In this project we have used Tableau to analyse the data from successful NYC CitiBike business to help convince investors that a bike-sharing program in Des Moines is a solid business proposal. 
 
-#Overview
+# Overview
 We have analysed different aspects like -
 - Number of Rides during peak months, peak hours
 - User type and gender 
 - Checkout time
 
-#Link to Tableau Story
+# Link to Tableau Story
 https://public.tableau.com/app/profile/sugandha.singh4100/viz/NYCCitiBike_16739174530020/NYCCitiBike?publish=yes
 
-#Results
+# Results
 
 Total number of rides are 2,344,224 for one peak month. It is an impressive number to be presented to investors.
 ![Screenshot (193)](https://user-images.githubusercontent.com/112904905/212791726-b93b30fb-adcf-4a33-8f20-9105ebf93360.png)
