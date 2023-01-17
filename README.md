@@ -1,6 +1,6 @@
 # bikesharing
 ## Purpose of this project
-In this project we have used Tableau to analyse the data from successful NYC CitiBike business to help convince investors that a bike-sharing program in Des Moines is a solid business proposal. 
+In this project we have used Tableau to analyse the data from NYC CitiBike business to help convince investors that a bike-sharing program in Des Moines may be a solid business proposal. 
 
 # Overview
 We have analysed different aspects like -
