@@ -31,6 +31,9 @@ For Weekdays and weekends both, males tend to rent bikes more than women.
 Knowing Peak hours will also help maintain supply chain and avoid shortages. It will also help plan repair or bike maintenance period. As per our analysis, based on the data the peak hours are 6-10 a.m and 5-8 p.m.
 ![Screenshot (188)](https://user-images.githubusercontent.com/112904905/212791980-e5bcafde-8a00-4f17-a8ac-6b438212f954.png)
 
+This graph gives us the usage for the peak month of August. This will help our investors get a ballpark estimate of how many bikes we might need in Des Moines.
+![Screenshot (191)](https://user-images.githubusercontent.com/112904905/212793795-b96ea893-1dbd-4374-9a84-1ec51594350a.png)
+
 # Conclusion
 The NYC CitiBike data analysis provides a good insight into bike sharing business and will help investors see the future prospects of a similar business in Des Moines.
 
