@@ -13,26 +13,31 @@ https://public.tableau.com/app/profile/sugandha.singh4100/viz/NYCCitiBike_167391
 
 # Results
 
-Total number of rides are 2,344,224 for one peak month. It is an impressive number to be presented to investors.
-![Screenshot (193)](https://user-images.githubusercontent.com/112904905/212791726-b93b30fb-adcf-4a33-8f20-9105ebf93360.png)
-
 Checkout time per user can go up as high as 3000 minutes. This graph shows that people rent citi Bikes for a long duration.
-![Screenshot (187)](https://user-images.githubusercontent.com/112904905/212791840-824640b9-8e87-4109-95e0-ba8bb8093c4d.png)
+
+![Screenshot (186)](https://user-images.githubusercontent.com/112904905/212794954-3f3bae8f-c47a-4d59-81a5-d14f451883d7.png)
 
 Data shows that male users tend to rent bikes for longer duration and more often. This will help create the right marketing strategy.
 
-![Screenshot (189)](https://user-images.githubusercontent.com/112904905/212791921-41c16b5b-045a-4f75-9192-b8d6ccea49a9.png)
+![Screenshot (189)](https://user-images.githubusercontent.com/112904905/212795043-4b4bf4ca-b149-48a6-bd28-cb939aa0a968.png)
 
-![Screenshot (187)](https://user-images.githubusercontent.com/112904905/212792728-964256b9-0ebc-415e-a22a-b3994e2b36e9.png)
+![Screenshot (187)](https://user-images.githubusercontent.com/112904905/212795069-29fae9bd-7213-4763-918f-a0a0d38af9dd.png)
 
 For Weekdays and weekends both, males tend to rent bikes more than women.
-![Screenshot (190)](https://user-images.githubusercontent.com/112904905/212791950-4b9e68c6-9900-4784-aef7-9c0649ece050.png)
+
+![Screenshot (190)](https://user-images.githubusercontent.com/112904905/212795118-9be0a431-63f2-4777-9241-13ff66b5a485.png)
 
 Knowing Peak hours will also help maintain supply chain and avoid shortages. It will also help plan repair or bike maintenance period. As per our analysis, based on the data the peak hours are 6-10 a.m and 5-8 p.m.
-![Screenshot (188)](https://user-images.githubusercontent.com/112904905/212791980-e5bcafde-8a00-4f17-a8ac-6b438212f954.png)
+
+![Screenshot (188)](https://user-images.githubusercontent.com/112904905/212795156-f80fd7e8-4a91-474a-bc98-6aba41aab126.png)
 
 This graph gives us the usage for the peak month of August. This will help our investors get a ballpark estimate of how many bikes we might need in Des Moines.
-![Screenshot (191)](https://user-images.githubusercontent.com/112904905/212793795-b96ea893-1dbd-4374-9a84-1ec51594350a.png)
+
+![Screenshot (191)](https://user-images.githubusercontent.com/112904905/212795191-28e9e61d-8ee2-434e-9156-6ba79a28c44a.png)
+
+Total number of rides are 2,344,224 for one peak month. It is an impressive number to be presented to investors.
+
+![Screenshot (193)](https://user-images.githubusercontent.com/112904905/212794862-945b3a85-93c1-43ab-a34a-ae0ae728c2db.png)
 
 # Conclusion
 The NYC CitiBike data analysis provides a good insight into bike sharing business and will help investors see the future prospects of a similar business in Des Moines.
